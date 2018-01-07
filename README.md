@@ -1,2 +1,2 @@
 # py-gauge-dashboard
-for work. dependent on grav backend, 
+Shell scripts and Python.  Work project for team site dashboard.  Dependent on grav backend, 
